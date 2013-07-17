@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cloudlabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title">Experiment List</string>
+    <string name="title_activity_third">Third</string>
+    <string name="title_activity_fourth">Fourth</string>
+    <string name="title_activity_fifth">Fifth</string>
+    <string name="title_activity_result">Result</string>
+
+</resources>

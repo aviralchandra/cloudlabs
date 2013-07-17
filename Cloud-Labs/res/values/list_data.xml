@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="exp">
+            <item >Select</item>
+            <item >TEMPERATURE CONTROLLED FAN</item> 
+            </string-array>
+    </resources>
